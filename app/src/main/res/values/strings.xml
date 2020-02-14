@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UmpireBuddy</string>
+
+    <string name="txt_title"><u><i>Umpire</i><b>Buddy</b></u></string>
+
+    <string name="txt_strikes">0</string>
+    <string name="txt_balls">0</string>
+    <string name="txt_outs">0</string>
+
+    <string name="btn_strikes">+ Strike</string>
+    <string name="btn_balls">+ Ball</string>
+    <string name="btn_outs">+ Out</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_exit">Exit</string>
+</resources>
